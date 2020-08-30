@@ -1,0 +1,1 @@
+This is another design trial, designing responsive websites
